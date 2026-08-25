@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.ttyd_*.log
+bin/ttyd

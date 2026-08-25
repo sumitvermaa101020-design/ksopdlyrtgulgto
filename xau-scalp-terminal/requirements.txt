@@ -1,0 +1,4 @@
+rich>=13.0
+websockets>=12.0
+aiohttp>=3.9
+numpy>=1.24
